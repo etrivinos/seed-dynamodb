@@ -1,6 +1,6 @@
 {
   "name": "@etrivinos_epam/seed-dynamodb",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Seed AWS dynamo tables with sample data",
   "keywords": ["seed", "dynamodb", "aws"],
   "home": "https://github.com/etrivinos/seed-dynamodb#readme",
